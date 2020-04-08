@@ -1,3 +1,2 @@
-# 快速开始
-> 请阅读[常见问题文档](/common-problem)：这里的是最常见被问频率最高的一些问题
-
+## 七日淘社区官方文档
+[官方地址](https://bbs.qiritao.com) | [官方文档](https://yhevis.github.io/qiritao-official-documents/#/)
