@@ -5,6 +5,7 @@
 
 * 前端框架：vue-cli、vue-router、axios、vuex
 * UI类库：Mint-UI、Vant
+* 后端框架：Spring Boot
 <!-- * 后端数据接口：Express、MongoDB -->
 
 ![color](#0f0f0f)
