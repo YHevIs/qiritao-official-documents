@@ -1,4 +1,5 @@
 * [快速开始](/start)
+* [需求目录](/requirements-catalogue.md)
 * [开发进度](/development-schedule.md)
 * [常见问题](/common-problem)
 * [门户](/gateway)
