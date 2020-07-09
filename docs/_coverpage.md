@@ -3,7 +3,7 @@
 
 > 使用Vue全家桶+Java搭建的小型全栈项目.
 
-* 前端框架：react、create-react-app
+* 前端框架：React、create-react-app
 * UI类库：Ant Design、three.js
 * 后端框架：Spring Boot
 <!-- * 后端数据接口：Express、MongoDB -->
